@@ -1,9 +1,6 @@
 [submodule "cookbooks/erlang"]
 	path = cookbooks/erlang
 	url = https://github.com/opscode-cookbooks/erlang.git
-[submodule "cookbooks/couchdb"]
-	path = cookbooks/couchdb
-	url = https://github.com/opscode-cookbooks/couchdb.git
 [submodule "cookbooks/apache2"]
 	path = cookbooks/apache2
 	url = https://github.com/opscode-cookbooks/apache2.git
