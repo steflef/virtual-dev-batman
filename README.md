@@ -1,10 +1,11 @@
-# Batman Project Virtual Box
+## Batman Project Virtual Box
 Vagrant file and set of Chef recipes for building a basic a nodejs development environment for the GeoHack Montreal.
 Vagrant file Based on the node-dev-bootstrap project from Semmy Purewal.
 https://github.com/semmypurewal/node-dev-bootstrap
 
-## INSTRUCTION FROM https://github.com/semmypurewal/node-dev-bootstrap/README.md
-============================================================================= 
+#### INSTRUCTION FROM https://github.com/semmypurewal/node-dev-bootstrap/README.md
+--- 
+
 If you're not familiar with Vagrant, read more about it at http://www.vagrantup.com.
 
 To get this to work, you must have VirtualBox (> 4.1.0) and Vagrant (> 1.0) installed. 
